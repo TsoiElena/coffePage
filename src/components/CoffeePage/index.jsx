@@ -1,6 +1,6 @@
 import React from 'react'
 import {makeStyles} from '@material-ui/core/styles'
-import CoffeeCard from "./CoffeeCard"
+import CoffeeCard from './CoffeeCard'
 
 const useStyles = makeStyles(() => ({
         main: {

@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react'
-import Preloader from "../Preloader";
-import CoffeePage from "../CoffeePage";
+import Preloader from '../Preloader'
+import CoffeePage from '../CoffeePage'
 
 const  Main = () => {
     const [loading, setLoading] = useState(true)
